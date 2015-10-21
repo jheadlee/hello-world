@@ -1,2 +1,2 @@
 # hello-world
-Just a starter spot
+Learning how to do things here. that's all
